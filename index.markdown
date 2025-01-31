@@ -4,7 +4,7 @@
 
 layout: page
 permalink: /
+title: GitHub pages
 ---
 
-# GitHub page
 This is an empty website hosted on GitHub Pages!
